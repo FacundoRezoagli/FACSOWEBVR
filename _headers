@@ -1,3 +1,3 @@
-/Build/BUILD.framework.js.gz
+/Build/BUILD.wasm.gz
   Content-Encoding: gzip
-  Content-Type: application/javascript
+  Content-Type: application/wasm
